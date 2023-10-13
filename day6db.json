@@ -1,0 +1,10 @@
+{
+  "products": {
+    "productId": "1234567",
+    "title": "Apple iPhone ",
+    "brand": "Apple",
+    "price": "422000",
+    "description": "good",
+    "thumbnail": "https://www.bing.com/ck/a?!&&p=520e02b6f7b3a4c6JmltdHM9MTY5Njk4MjQwMCZpZ3VpZD0xYzkwYWYwYS1lMmRlLTY4ZDEtM2M0NC1iY2FjZTNhOTY5NTUmaW5zaWQ9NTQ5OA&ptn=3&hsh=3&fclid=1c90af0a-e2de-68d1-3c44-bcace3a96955&u=a1L2ltYWdlcy9zZWFyY2g_cT1hcHBsZStpcGhvbmUraW1hZ2VzJmlkPUU0NTk1RDcyMkFCNjVEMjIyQTM3RjI0NUE4MUJEQzEwNkQyNTIzRTMmRk9STT1JUUZSQkE&ntb=1"
+  }
+}
